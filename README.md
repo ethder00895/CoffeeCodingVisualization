@@ -1,1 +1,1 @@
-# task1-coffeeCodingVisualization
+# CoffeeCodingVisualization
