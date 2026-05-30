@@ -40,3 +40,8 @@ Open index.html to view the visualization.
 ```Bash
 python -m http.server 8000
 ```
+
+8. Alternately open the link directly:
+```Bash
+https://ethder00895.github.io/CoffeeCodingVisualization/
+```
